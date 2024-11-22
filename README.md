@@ -15,7 +15,7 @@
  - [Some of my 100 Days with Swift projects](https://github.com/Artem-Goldenberg/Projects)
 
 ### Other:
-- [Roguelike game](https://github.com/Artem-Goldenberg/Roguelike/tree/WeakInit)
+- [Roguelike game](https://github.com/Artem-Goldenberg/Roguelike/tree/Enemy)
 - [Basic command line simulator](https://github.com/Artem-Goldenberg/ComputerArchitecture-CLI)
 - [Python library for Durak card game simulation](https://github.com/Artem-Goldenberg/Durak)
 - [Bmp imgae cropping, rotating + secret message encoding into pixels](https://github.com/Artem-Goldenberg/Crapper)
