@@ -5,6 +5,7 @@
 ### Programming Languages and Type theory:
  - [Algorithms for fast NP-complete comparisons of Intersection Types](https://github.com/Artem-Goldenberg/IntersectionTypesComparison)
  - [Copying Garbage Collector for the small language called Stella](https://github.com/Artem-Goldenberg/StellaGC)
+ - [Bidirectional Type Inference for SystemF](https://github.com/Artem-Goldenberg/BidirectionalSystem)
  - [Type Inference Engine for λ cube systems](https://github.com/Artem-Goldenberg/LCube)
  - [C++ Template Library](https://github.com/Artem-Goldenberg/statica)
 
