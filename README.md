@@ -1,6 +1,7 @@
 ## Projects with me:
  - [Graphical web-editor for Neural Networks with handwriten c++ nn-training framework](https://github.com/SPbuMinecraft/GraphicalEditorForNN)
  - [Multi-Agent path finding algorithm](https://github.com/Artem-Goldenberg/MultiAgentPathFinding)
+ - [Parser for the Stella language using Swift's Parsec library](https://github.com/Artem-Goldenberg/SwiftStella)
   
 ### Programming Languages and Type theory:
  - [Algorithms for fast NP-complete comparisons of Intersection Types](https://github.com/Artem-Goldenberg/IntersectionTypesComparison)
