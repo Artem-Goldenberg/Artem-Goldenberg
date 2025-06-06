@@ -11,6 +11,7 @@
  - [Bidirectional Type Inference for SystemF](https://github.com/Artem-Goldenberg/BidirectionalSystem)
  - [Type Inference Engine for λ cube systems](https://github.com/Artem-Goldenberg/LCube)
  - [C++ Template Library](https://github.com/Artem-Goldenberg/statica)
+- [C Macro Library](https://github.com/Artem-Goldenberg/JustText)
 
 ### IOS:
  - [Task manager app for developer teams](https://github.com/Artem-Goldenberg/Jtool)
